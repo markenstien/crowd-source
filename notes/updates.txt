@@ -1,0 +1,27 @@
+/*ADDED NEW DATABASE*/
+
+/*10/2/2019*/
+
+drop table if exists applicant_educations;
+create table applicant_educations(
+	id int(10) not null primary key auto_increment ,
+	userid int(10) not null,
+	highest_attainment varchar(50) not null,
+	year char(10) ,
+	school varchar(100) not null,
+	status enum('active' , 'inactive')
+);
+
+drop table if exists work_experiences;
+create table work_experiences(
+	id int(10) not null primary key auto_increment ,
+	userid int(10) not null,
+	field varchar(100) ,
+	position varchar(100) not null,
+	role_description varchar(255) not null,
+	date char(10) not null,
+	year char(10) not null,
+	status enum('active' , 'inactive')
+);
+
+alter table applicant_skills drop column name;

@@ -1,0 +1,5 @@
+[01-Nov-2020 08:10:07 Asia/manila] PHP Notice:  Undefined index: message in /home/monshhic/app.monsterthesis.com/app/vendor/email_test.php on line 7
+[01-Nov-2020 08:19:28 Asia/manila] PHP Notice:  Undefined variable: userid in /home/monshhic/app.monsterthesis.com/app/functions/functions.php on line 178
+[01-Nov-2020 08:19:28 Asia/manila] PHP Warning:  Invalid argument supplied for foreach() in /home/monshhic/app.monsterthesis.com/app/vendor/account_list.php on line 38
+[01-Nov-2020 08:20:19 Asia/manila] PHP Notice:  Undefined variable: userId in /home/monshhic/app.monsterthesis.com/app/vendor/account_list.php on line 12
+[01-Nov-2020 08:20:19 Asia/manila] PHP Notice:  Undefined variable: userId in /home/monshhic/app.monsterthesis.com/app/vendor/account_list.php on line 16

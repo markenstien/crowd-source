@@ -1,0 +1,25 @@
+ADMINISTRATOR
+-HIGHEST LEVEL OF ACCOUNT
+-MANAGE CLIENTS
+-MANAGE ACCOUNTS
+-CHECKS AND VALDIATE JOB POSTS FROM HRS
+-TRACKS COMPANIES EMPLOYEE
+
+HR
+-CREATE JOB POST
+
+
+CLIENT
+-Send a job vacancies to the system (which will then be a job post created by the hr)
+-Track Job vacancies suggested applicants
+-Evaluate current employees
+-Track Employee history / applicant
+
+
+EMPLOYEE / APPLICANT
+-Applicant Will send job applicant to the system , then be reviews by the hr
+-Track Job history (JOB HISTORY ON THE SYSTEM)
+-Company Job Evaluations
+
+--------------------------------------------------------------------------------------------------------------------------------####################################################################################################------------
+

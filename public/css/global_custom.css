@@ -1,0 +1,15 @@
+
+.card.card-theme-dark .card-header
+{
+	background: #263a5b !important;
+	color: #fff !important;
+}
+
+.card.card-theme-dark .card-header .card-title
+{
+	color: #fff !important;
+}
+
+.card{
+	margin-bottom: 30px;
+}

@@ -1,0 +1,45 @@
+10/2/2019
+
+##MODULES##
+
+CLIENT
+Register , Login , jobapplication (proceess not yet finalize)
+
+ADMINISTRATOR
+create job category ,
+create job
+
+
+
+
+##NEXT UPDATE##
+
+joblist recomendation
+access controll (restrictions)
+search engines
+
+file attachments
+exam management
+
+
+
+10/5/2019
+
+##MODULES##
+Administrator
+Applicant Preview / Account Preview
+1.Posted Job Monitoring
+2.Closed Post
+3.Account management
+4.Pre-employement exam
+5.Applicant Records
+6.Job Post management
+7.
+
+HR
+1.
+
+/*CREATED MODULES*/
+
+1.company management
+-list view edit create

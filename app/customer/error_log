@@ -1,0 +1,85 @@
+[13-Nov-2020 19:07:25 Asia/manila] PHP Notice:  Undefined index: empid in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 31
+[13-Nov-2020 19:07:25 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 33
+[13-Nov-2020 19:07:25 Asia/manila] PHP Notice:  Undefined index: empid in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 35
+[13-Nov-2020 19:07:25 Asia/manila] PHP Warning:  extract() expects parameter 1 to be array, null given in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 49
+[13-Nov-2020 19:07:25 Asia/manila] PHP Notice:  Undefined variable: status in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 51
+[13-Nov-2020 19:07:25 Asia/manila] PHP Notice:  Undefined variable: date_started in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 53
+[13-Nov-2020 19:07:25 Asia/manila] PHP Notice:  Undefined variable: empcode in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 54
+[13-Nov-2020 19:07:25 Asia/manila] PHP Notice:  Undefined variable: fullname in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 55
+[13-Nov-2020 19:07:25 Asia/manila] PHP Notice:  Undefined variable: job_title in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 56
+[13-Nov-2020 19:07:25 Asia/manila] PHP Notice:  Undefined variable: job_position in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 57
+[13-Nov-2020 19:07:25 Asia/manila] PHP Notice:  Undefined variable: salary in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 58
+[13-Nov-2020 19:07:25 Asia/manila] PHP Notice:  Undefined variable: salary_type in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 59
+[13-Nov-2020 19:07:25 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 60
+[13-Nov-2020 19:07:25 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 60
+[13-Nov-2020 19:07:25 Asia/manila] PHP Warning:  extract() expects parameter 1 to be array, null given in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 66
+[13-Nov-2020 19:07:25 Asia/manila] PHP Notice:  Undefined variable: firstname in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 69
+[13-Nov-2020 19:07:25 Asia/manila] PHP Notice:  Undefined variable: lastname in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 70
+[13-Nov-2020 19:07:25 Asia/manila] PHP Notice:  Undefined variable: gender in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 71
+[13-Nov-2020 19:07:25 Asia/manila] PHP Notice:  Undefined variable: birthday in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 72
+[13-Nov-2020 19:07:25 Asia/manila] PHP Notice:  Undefined variable: phone in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 75
+[13-Nov-2020 19:07:25 Asia/manila] PHP Notice:  Undefined variable: email in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 76
+[13-Nov-2020 19:07:25 Asia/manila] PHP Notice:  Undefined variable: address in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 77
+[13-Nov-2020 19:07:25 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 79
+[13-Nov-2020 19:07:25 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 84
+[13-Nov-2020 19:07:25 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 97
+[13-Nov-2020 19:07:25 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 117
+[13-Nov-2020 19:07:25 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 139
+[13-Nov-2020 19:07:40 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/application_view.php on line 74
+[13-Nov-2020 19:07:40 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/application_view.php on line 111
+[28-Mar-2021 20:12:55 Asia/manila] PHP Notice:  Undefined index: empid in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 31
+[28-Mar-2021 20:12:55 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 33
+[28-Mar-2021 20:12:55 Asia/manila] PHP Notice:  Undefined index: empid in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 35
+[28-Mar-2021 20:12:55 Asia/manila] PHP Warning:  extract() expects parameter 1 to be array, null given in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 49
+[28-Mar-2021 20:12:55 Asia/manila] PHP Notice:  Undefined variable: status in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 51
+[28-Mar-2021 20:12:55 Asia/manila] PHP Notice:  Undefined variable: date_started in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 53
+[28-Mar-2021 20:12:55 Asia/manila] PHP Notice:  Undefined variable: empcode in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 54
+[28-Mar-2021 20:12:55 Asia/manila] PHP Notice:  Undefined variable: fullname in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 55
+[28-Mar-2021 20:12:55 Asia/manila] PHP Notice:  Undefined variable: job_title in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 56
+[28-Mar-2021 20:12:55 Asia/manila] PHP Notice:  Undefined variable: job_position in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 57
+[28-Mar-2021 20:12:55 Asia/manila] PHP Notice:  Undefined variable: salary in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 58
+[28-Mar-2021 20:12:55 Asia/manila] PHP Notice:  Undefined variable: salary_type in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 59
+[28-Mar-2021 20:12:55 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 60
+[28-Mar-2021 20:12:55 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 60
+[28-Mar-2021 20:12:55 Asia/manila] PHP Warning:  extract() expects parameter 1 to be array, null given in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 66
+[28-Mar-2021 20:12:55 Asia/manila] PHP Notice:  Undefined variable: firstname in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 69
+[28-Mar-2021 20:12:55 Asia/manila] PHP Notice:  Undefined variable: lastname in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 70
+[28-Mar-2021 20:12:55 Asia/manila] PHP Notice:  Undefined variable: gender in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 71
+[28-Mar-2021 20:12:55 Asia/manila] PHP Notice:  Undefined variable: birthday in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 72
+[28-Mar-2021 20:12:55 Asia/manila] PHP Notice:  Undefined variable: phone in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 75
+[28-Mar-2021 20:12:55 Asia/manila] PHP Notice:  Undefined variable: email in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 76
+[28-Mar-2021 20:12:55 Asia/manila] PHP Notice:  Undefined variable: address in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 77
+[28-Mar-2021 20:12:55 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 79
+[28-Mar-2021 20:12:55 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 84
+[28-Mar-2021 20:12:55 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 97
+[28-Mar-2021 20:12:55 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/employee_view.php on line 139
+[28-Mar-2021 20:14:28 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/evaluation_list.php on line 35
+[28-Mar-2021 20:14:28 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/evaluation_list.php on line 36
+[28-Mar-2021 20:14:28 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/evaluation_list.php on line 35
+[28-Mar-2021 20:14:28 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/evaluation_list.php on line 36
+[28-Mar-2021 20:14:28 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/evaluation_list.php on line 35
+[28-Mar-2021 20:14:28 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/evaluation_list.php on line 36
+[28-Mar-2021 20:14:28 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/evaluation_list.php on line 35
+[28-Mar-2021 20:14:28 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/evaluation_list.php on line 36
+[28-Mar-2021 20:14:28 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/evaluation_list.php on line 35
+[28-Mar-2021 20:14:28 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/evaluation_list.php on line 36
+[28-Mar-2021 20:14:31 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/evaluation_list.php on line 35
+[28-Mar-2021 20:14:31 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/evaluation_list.php on line 36
+[28-Mar-2021 20:14:31 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/evaluation_list.php on line 35
+[28-Mar-2021 20:14:31 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/evaluation_list.php on line 36
+[28-Mar-2021 20:14:31 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/evaluation_list.php on line 35
+[28-Mar-2021 20:14:31 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/evaluation_list.php on line 36
+[28-Mar-2021 20:14:31 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/evaluation_list.php on line 35
+[28-Mar-2021 20:14:31 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/evaluation_list.php on line 36
+[28-Mar-2021 20:14:31 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/evaluation_list.php on line 35
+[28-Mar-2021 20:14:31 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/evaluation_list.php on line 36
+[28-Mar-2021 20:14:37 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/evaluation_list.php on line 35
+[28-Mar-2021 20:14:37 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/evaluation_list.php on line 36
+[28-Mar-2021 20:14:37 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/evaluation_list.php on line 35
+[28-Mar-2021 20:14:37 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/evaluation_list.php on line 36
+[28-Mar-2021 20:14:37 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/evaluation_list.php on line 35
+[28-Mar-2021 20:14:37 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/evaluation_list.php on line 36
+[28-Mar-2021 20:14:37 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/evaluation_list.php on line 35
+[28-Mar-2021 20:14:37 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/evaluation_list.php on line 36
+[28-Mar-2021 20:14:37 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/evaluation_list.php on line 35
+[28-Mar-2021 20:14:37 Asia/manila] PHP Notice:  Trying to access array offset on value of type null in /home/monshhic/app.monsterthesis.com/app/customer/evaluation_list.php on line 36
